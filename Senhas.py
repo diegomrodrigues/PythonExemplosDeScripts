@@ -4,7 +4,7 @@ Criando Senhas com Python
 
 Exemplo de script Python cria senhas seguras em Python
 
-Artigo: https://www.linkedin.com/pulse/...................
+Artigo: https://www.linkedin.com/pulse/criar-senhas-seguras-python-diego-mendes-rodrigues/
 
 Diego Mendes Rodrigues
 '''

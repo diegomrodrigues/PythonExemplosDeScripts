@@ -4,7 +4,7 @@ Utilizando o banco de dados MySQL no Python
 
 pip install mysqlclient
 
-Artigo: https://www.linkedin.com/pulse/...................
+Artigo: Não foi publicado
 
 Diego Mendes Rodrigues
 '''

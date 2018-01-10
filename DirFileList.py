@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+'''
+Listagem de arquivos em diretorios
+
+Diego Mendes Rodrigues
+'''
 import os
 
 class DirFileList:

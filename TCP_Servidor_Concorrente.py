@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 '''
 Exemplo de um Servidor TCP Concorrente (Multithread)
 
-Artigo:
+Artigo: Não foi publicado
 
 Diego Mendes Rodrigues
 '''
